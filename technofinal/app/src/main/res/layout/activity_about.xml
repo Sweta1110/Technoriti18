@@ -42,8 +42,8 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/text_technoriti"
             android:layout_centerHorizontal="true"
-            android:layout_marginEnd="16dp"
-            android:layout_marginStart="16dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
             android:layout_marginTop="31dp"
             android:text="Technoriti is annual Techno Management Fest of Bhagalpur College of Engineering. The fest is organised by the students of B.C.E Bhagalpur. The fest was first held in the year 2012 under the name AAGHAZ. The AAGHAZ was splendid and it changed into Technoriti in 2013. Technoriti is the amalgamation of two words, ‘Techno’ and ‘riti’. The term ‘Techno’ refers to technology, and ‘riti’ refers to cultural values and ethics. The eight-ten day fest kicks off with various techno-management events and finally ends with UMANG- The cultural night."
             android:textColor="@color/textcolordescription"
@@ -53,7 +53,7 @@
             android:layout_marginBottom="16dp"
             android:background="@drawable/octagon_back"/>
 
-        <TextView
+       <!-- <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignStart="@+id/textView2"
@@ -66,7 +66,7 @@
             android:textColor="@color/textcolordescription"
             android:textSize="17dp"
             android:layout_margin="16dp"
-            android:layout_marginTop="20dp"/>
+            android:layout_marginTop="20dp"/>  -->
 
 
     </RelativeLayout>
